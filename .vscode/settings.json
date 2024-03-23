@@ -1,0 +1,7 @@
+{
+    "CodeGPT.Autocomplete.provider": "OpenAI - gpt-3.5-turbo-instruct",
+    "CodeGPT.apiKey": "CodeGPT Plus Beta",
+    "CodeGPT.Autocomplete.enabled": true,
+    "CodeGPT.Autocomplete.maxTokens": 1000000000000,
+    "CodeGPT.Autocomplete.suggestionDelay": 100000000000000
+}
